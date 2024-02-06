@@ -30,6 +30,30 @@ public class Program {
         Console.WriteLine("La suma es: {0}",numero+numero2);
         Console.WriteLine("La suma ejemplo 2 es: {0}", suma);
 
+        double promedio = CalcularPromedio(numero);
+
+        Console.WriteLine("El promedio es: {0}", promedio);
         Console.ReadLine();
+
+        
+
+    }
+
+    public static double CalcularPromedio(int cantidadEstudiantes) {
+
+        double promedio;
+        double sumaAcumulada = 0;
+
+        for (int i = 0; i<cantidadEstudiantes; i++)
+        {
+            Console.WriteLine("Ingrese la nota {0} :",(i+1));
+            double nota = Convert.ToDouble(Console.ReadLine());
+            sumaAcumulada += nota;
+        }
+
+        promedio = sumaAcumulada/cantidadEstudiantes;
+
+        
+        return promedio;
     }
 }

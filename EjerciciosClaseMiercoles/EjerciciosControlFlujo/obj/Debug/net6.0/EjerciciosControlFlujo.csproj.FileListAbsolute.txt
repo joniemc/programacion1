@@ -1,0 +1,14 @@
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\bin\Debug\net6.0\EjerciciosControlFlujo.exe
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\bin\Debug\net6.0\EjerciciosControlFlujo.deps.json
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\bin\Debug\net6.0\EjerciciosControlFlujo.runtimeconfig.json
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\bin\Debug\net6.0\EjerciciosControlFlujo.dll
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\bin\Debug\net6.0\EjerciciosControlFlujo.pdb
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\obj\Debug\net6.0\EjerciciosControlFlujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\obj\Debug\net6.0\EjerciciosControlFlujo.AssemblyInfoInputs.cache
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\obj\Debug\net6.0\EjerciciosControlFlujo.AssemblyInfo.cs
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\obj\Debug\net6.0\EjerciciosControlFlujo.csproj.CoreCompileInputs.cache
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\obj\Debug\net6.0\EjerciciosControlFlujo.dll
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\obj\Debug\net6.0\refint\EjerciciosControlFlujo.dll
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\obj\Debug\net6.0\EjerciciosControlFlujo.pdb
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\obj\Debug\net6.0\EjerciciosControlFlujo.genruntimeconfig.cache
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosControlFlujo\obj\Debug\net6.0\ref\EjerciciosControlFlujo.dll

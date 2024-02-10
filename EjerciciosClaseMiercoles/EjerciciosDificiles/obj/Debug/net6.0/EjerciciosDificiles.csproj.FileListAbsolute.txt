@@ -1,0 +1,14 @@
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\bin\Debug\net6.0\EjerciciosDificiles.exe
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\bin\Debug\net6.0\EjerciciosDificiles.deps.json
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\bin\Debug\net6.0\EjerciciosDificiles.runtimeconfig.json
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\bin\Debug\net6.0\EjerciciosDificiles.dll
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\bin\Debug\net6.0\EjerciciosDificiles.pdb
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\obj\Debug\net6.0\EjerciciosDificiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\obj\Debug\net6.0\EjerciciosDificiles.AssemblyInfoInputs.cache
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\obj\Debug\net6.0\EjerciciosDificiles.AssemblyInfo.cs
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\obj\Debug\net6.0\EjerciciosDificiles.csproj.CoreCompileInputs.cache
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\obj\Debug\net6.0\EjerciciosDificiles.dll
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\obj\Debug\net6.0\refint\EjerciciosDificiles.dll
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\obj\Debug\net6.0\EjerciciosDificiles.pdb
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\obj\Debug\net6.0\EjerciciosDificiles.genruntimeconfig.cache
+C:\Projects\.NEt\programacion1\EjerciciosClaseMiercoles\EjerciciosDificiles\obj\Debug\net6.0\ref\EjerciciosDificiles.dll
